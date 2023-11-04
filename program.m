@@ -1,10 +1,3 @@
-%
-% Autor: st. kpr. pchor. Krzysztof JAMOROZY
-% Przedmiot: Sterowanie w mechatronice
-% Temat: Obliczanie regulatora K od stanu dla napędu DC
-%                 metodą lokowania biegunów
-%
-
 clc
 clear
 
